@@ -9,3 +9,4 @@
 *let d = new Date();*
 *console.log(d.date);* 
 
+##Make sure to put   "type": "module", in package.json
