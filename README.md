@@ -3,9 +3,9 @@
 
 ### npm install @salmansaeed/date 
 
-* To Run you Simply Write the Follows: 
+ **To Run you Simply Write the Follows:** 
 
-* * import Date from '@salmansaeed/date';
-* * let d = new Date();
-* * console.log(d.date); 
+*import Date from '@salmansaeed/date';*
+*let d = new Date();*
+*console.log(d.date);* 
 
