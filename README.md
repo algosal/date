@@ -6,7 +6,11 @@
  **To Run you Simply Write the Follows:** 
 
 *import Date from '@salmansaeed/date';*
+
 *let d = new Date();*
+
 *console.log(d.date);* 
 
-##Make sure to put   "type": "module", in package.json
+*console.log(d.time);* 
+
+## Make sure to put   "type": "module", in package.json

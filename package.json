@@ -1,6 +1,6 @@
 {
   "name": "@salmansaeed/date",
-  "version": "5.0.0",
+  "version": "5.5.0",
   "type": "module",
   "description": "This package allows you to create new myDateTimeObject Objects as a Factory Pattern",
   "main": "date.js",
