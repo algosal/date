@@ -1,7 +1,7 @@
 # date
 ## Date Package for JavaScript: This Package Acts like a Factory for Date and Time To use this Package after installing create a new object by calling myDateTimeObject. Follow the steps
 
-** npm install @salmansaeed/date 
+* * npm install @salmansaeed/date 
 
 * To Run you Simply Write the Follows: 
 
