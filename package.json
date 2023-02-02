@@ -1,0 +1,27 @@
+{
+  "name": "@salmansaeed/date",
+  "version": "1.0.0",
+  "description": "This Package Allows you to write date and time in the elements with id myDate and id myTime. Example: you can give the id to div as myDate and the date will appear in that division.",
+  "main": "date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algosal/date.git"
+  },
+  "keywords": [
+    "date",
+    "and",
+    "time",
+    "by",
+    "salman",
+    "saeed"
+  ],
+  "author": "Salman Saeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/algosal/date/issues"
+  },
+  "homepage": "https://github.com/algosal/date#readme"
+}
